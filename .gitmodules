@@ -1,0 +1,6 @@
+[submodule "luajit"]
+	path = luajit
+	url = https://luajit.org/git/luajit.git
+[submodule "tl"]
+	path = tl
+	url = https://github.com/teal-language/tl
