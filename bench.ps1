@@ -1,5 +1,3 @@
-# Save this as MyScript.ps1
-
 param (
     [string]$Command,  # The command to run (e.g., luajit)
     [string]$ScriptPath  # The path to the script (e.g., test.lua)
